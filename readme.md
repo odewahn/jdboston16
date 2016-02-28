@@ -6,12 +6,10 @@
 }
 </style>
 
-# Allen Downey
-## Olin College
+This is the tentative speaker list for Jupyter Day Boston, which will be held on March 17-18 at the Harvard Law School.  You can make any changes you like and send a pull request, or just email any corrections to odewahn@oreilly.com and I'll put them in.  If you want to change your picture, please make sure it is a square format.
 
-<img class="headshot" src="headshots/allen_downey.jpg"/>
+<b>IMPORTANT</b>: If you have not done so already, please register as a conference speaker at [the eventbrite page](https://www.eventbrite.com/myevent?eid=21440120979).
 
-Allen Downey is a Professor at [Olin College](http://www.olin.edu/) and the author of a series of books including _Think Python_, _Think Bayes_, and _Think Stats_, all published by [O’Reilly Media](http://www.oreilly.com/) and available under free licenses from [Green Tea Press](http://greenteapress.com/).
 
 # Ash Wilson
 ## Rackspace
