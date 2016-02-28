@@ -124,13 +124,10 @@ Rahul Dave is a Computational Scientist at the Astrophysics Data System ([ADS](h
 Safia is an energetic software engineer with an interest in data science for social good, intelligent interfaces, and great coffee. She is the founder and fearless leader of dsfa, a startup aimed at providing data science services to small businesses. She is also the organizer of PyData Chicago, where she brings an awesome community of developers and data scientists to build amazing open source software. In her free time, she enjoys working out, contributing to open-source software, and teaching people how to be awesome with code.
 
 # Thorin Tabor
-## The Broad Institutes
+## Broad Institute
 
 <img class="headshot" src="headshots/thorin_tabor.jpg"/>
 
+Thorin Tabor is the developer of the [GenePattern Notebook](http://www.broadinstitute.org/cancer/software/genepattern/genepattern-notebooks) environment, which uses Jupyter Notebooks to capture, automate and share workflows used in cancer research, as well as other genomic analyses.
 
-Thorin Tabor is the principal developer of the [GenePattern Notebook](http://www.broadinstitute.org/cancer/software/genepattern/genepattern-notebooks) environment, which uses Jupyter Notebooks to encapsulate workflows that are used in cancer research, as well as other genomic analyses.
-
-GenePattern Notebook is a Jupyter extension that allows a notebook to communicate with our open source GenePattern environment. This environment wraps hundreds of different software tools for analyzing gene expression data, and makes these tools available in Jupyter, with a user-friendly interface.
-
-This is part of a program which is funded through the University of California, San Diego, as well as the Broad Institute of MIT and Harvard.
+GenePattern Notebook is an extension that allows Jupyter to communicate with the open source [GenePattern](http://www.broadinstitute.org/cancer/software/genepattern/) environment. This environment wraps hundreds of different software tools for analyzing gene expression data, and makes these tools available in a user-friendly interface.
