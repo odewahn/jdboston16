@@ -113,7 +113,7 @@ Rahul Dave is a Computational Scientist at the Astrophysics Data System ([ADS](h
 
 <img class="headshot" src="headshots/safia_abdalla.jpg" width="180px"/>
 
-Safia is an energetic software engineer with an interest in data science for social good, intelligent interfaces, and great coffee. She is the founder and fearless leader of dsfa, a startup aimed at providing data science services to small businesses. She is also the organizer of PyData Chicago, where she brings an awesome community of developers and data scientists to build amazing open source software. In her free time, she enjoys working out, contributing to open-source software, and teaching people how to be awesome with code.
+Safia is an energetic software engineer with an interest in data science for social good, intelligent interfaces, and great coffee. She is the founder and fearless leader of [dsfa](http://dsfa.io/), a startup aimed at providing data science services to small businesses. She is also the organizer of [PyData Chicago](http://chicago.pydata.org/), where she brings an awesome community of developers and data scientists to build amazing open source software. In her free time, she enjoys working out, contributing to open-source software, and teaching people how to be awesome with code.
 
 # Thorin Tabor
 ## Broad Institute
