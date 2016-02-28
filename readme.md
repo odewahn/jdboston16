@@ -2,6 +2,8 @@ This is the tentative speaker list for Jupyter Day Boston, which will be held on
 
 <b>IMPORTANT</b>: If you have not done so already, please register as a conference speaker at [the eventbrite page](https://www.eventbrite.com/e/jupyterdays-boston-2016-tickets-21440120979).
 
+<img src="speakers.png" width="90%" />
+
 
 # Ash Wilson
 ## Rackspace
