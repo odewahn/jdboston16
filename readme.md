@@ -105,7 +105,7 @@ Matthias Bussonnier is a post-doctoral scholar who got its PhD in Biophysics at 
 Paco Nathan is the Director of the Learning Group at O'Reilly Media.  He has led several data teams in industry, evangelized some popular open source projects (Spark, Mesos, Cascading, and been teaching with Jupyter notebooks for a couple of years, and loving it!  http://liber118.com/pxn/  
 
 # Peter Bull
-## DriveData
+## DrivenData
 
 <img class="headshot" src="headshots/peter_bull.jpg"/>
 
