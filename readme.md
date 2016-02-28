@@ -58,7 +58,7 @@ Wellesley College
 
 <img class="headshot" src="headshots/eni_mustafaraj.jpg"/>
 
-Eni Mustafaraj is an Assistant Professor in the [Department of Computer Science](http://cs.wellesley.edu) at [Wellesley College](http://www.wellesley.edu), and is using Notebooks to teach introductory CS courses.
+Eni Mustafaraj is an Assistant Professor of Computer Science at Wellesley College. She has introduced the use of Jupyter notebooks in the CS1 course at Wellesley, and they are now used extensively during class time. Jupyter notebooks are also the central component of her elective course on Data Science.
 
 # Jeremy Freeman
 ## Janelia / mybinder.org
