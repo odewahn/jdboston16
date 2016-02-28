@@ -74,7 +74,7 @@ Jeremy Freeman is a neuroscientist using computation to understand the brain and
 
 <img class="headshot" src="headshots/jonas_rosland.jpg"/>
 
-Jonas Rosland is a Developer Advocate at EMC {code}, loves tech, food, wine, craft beers and geeky things. He blogs at jonasrosland.com.
+Jonas Rosland is a Developer Advocate at [EMC {code}](http://emccode.github.io/), loves tech, food, wine, craft beers and geeky things. He blogs at jonasrosland.com.
 
 # Kyle Kelley
 ## Rackspace / Jupyter
@@ -88,21 +88,21 @@ Kyle Kelley is a programmer, sometimes mathematician, oftentimes ops. He works f
 
 <img class="headshot" src="headshots/laurent_gautier.jpg"/>
 
-Laurent Gautier is a Senior Investigator at Novartis Institutes for BioMedical Research.  He is a long-time user of R and original core member of the bioconductor project, the lead of the [Python-R bridge](https://pypi.python.org/pypi/rpy2) which has 60,000 downloads/month, and he wrote the first [Julia-R bridge](https://github.com/lgautier/Rif.jl).
+Laurent Gautier is a Senior Investigator at Novartis Institutes for BioMedical Research.  He is a long-time user of R and original core member of the bioconductor project, the lead of the [Python-R bridge](https://pypi.python.org/pypi/rpy2) (60,000 downloads/month!), and he wrote the first [Julia-R bridge](https://github.com/lgautier/Rif.jl).
 
 # Mattias Bussonnier
 ## Jupyter Project / UC Berkeley
 
 <img class="headshot" src="headshots/matthias_bussonnier.jpg"/>
 
-Matthias Bussonnier is a post-doctoral scholar who got its PhD in Biophysics at Institut Curie (Paris, France) after a training in fundamental Physics at ENS Cachan (France).  Matthias develops tools for modern computational research across disciplines, with an emphasis on high-level languages, literate computing, and reproducible research. In particular, Matthias has been a core developer of the IPython and Jupyter Project team since 2011 and is bringing real-time collaboration to scientific tools.
+Matthias Bussonnier is a post-doctoral scholar who received his PhD in Biophysics at Institut Curie (Paris, France) after a training in fundamental Physics at ENS Cachan (France).  Matthias develops tools for modern computational research across disciplines, with an emphasis on high-level languages, literate computing, and reproducible research. Matthias has been a core developer of the IPython and Jupyter Project team since 2011 and is bringing real-time collaboration to scientific tools.
 
 # Paco Nathan
 ## O'Reilly Media
 
 <img class="headshot" src="headshots/paco_nathan.jpg"/>
 
-Paco Nathan is the Director of the Learning Group at O'Reilly Media.  He has led several data teams in industry, evangelized some popular open source projects (Spark, Mesos, Cascading, and been teaching with Jupyter notebooks for a couple of years, and loving it!  http://liber118.com/pxn/  
+Paco Nathan is the Director of the Learning Group at O'Reilly Media.  He has led several data teams in industry, evangelized many popular open source projects (Spark, Mesos, Cascading, and been teaching with Jupyter notebooks for a couple of years, and loving it!  http://liber118.com/pxn/  
 
 # Peter Bull
 ## DrivenData
@@ -131,8 +131,8 @@ Safia is an energetic software engineer with an interest in data science for soc
 <img class="headshot" src="headshots/thorin_tabor.jpg"/>
 
 
-Thorin Tabor is the am the principal developer of the [GenePattern Notebook](http://www.broadinstitute.org/cancer/software/genepattern/genepattern-notebooks) environment, which uses Jupyter Notebooks to encapsulate workflows that are used in cancer research, as well as other genomic analyses.
+Thorin Tabor is the principal developer of the [GenePattern Notebook](http://www.broadinstitute.org/cancer/software/genepattern/genepattern-notebooks) environment, which uses Jupyter Notebooks to encapsulate workflows that are used in cancer research, as well as other genomic analyses.
 
-GenePattern Notebook is a Jupyter extension that allows a notebook to communicate with our open source GenePattern environment. This environment wraps hundreds of different software tools for analyzing gene expression data, and makes these tools available in Jupter, with a user-friendly interface.
+GenePattern Notebook is a Jupyter extension that allows a notebook to communicate with our open source GenePattern environment. This environment wraps hundreds of different software tools for analyzing gene expression data, and makes these tools available in Jupyter, with a user-friendly interface.
 
 This is part of a program which is funded through the University of California, San Diego, as well as the Broad Institute of MIT and Harvard.
