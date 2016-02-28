@@ -8,7 +8,7 @@
 
 This is the tentative speaker list for Jupyter Day Boston, which will be held on March 17-18 at the Harvard Law School.  You can make any changes you like and send a pull request, or just email any corrections to odewahn@oreilly.com and I'll put them in.  If you want to change your picture, please make sure it is a square format.
 
-<b>IMPORTANT</b>: If you have not done so already, please register as a conference speaker at [the eventbrite page](https://www.eventbrite.com/myevent?eid=21440120979).
+<b>IMPORTANT</b>: If you have not done so already, please register as a conference speaker at [the eventbrite page](https://www.eventbrite.com/e/jupyterdays-boston-2016-tickets-21440120979).
 
 
 # Ash Wilson
