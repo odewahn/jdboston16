@@ -24,7 +24,7 @@ Peter is a co-founder at DrivenData, whose mission is to bring the power of data
 
 <img class="headshot" src="headshots/chelsea_douglas.jpg" width="180px"/>
 
-Chelsea Douglas is the lead support engineer at Plotly. She work on developing Plotly's python API and javascript library, and is also an avid Jupyter Notebook user!
+Chelsea Douglas is the lead support engineer at Plotly. She is developing Plotly's python API and javascript library, and is also an avid Jupyter Notebook user!
 
 # Daina Bouquin
 ## Harvard-Smithsonian Center for Astrophysics
