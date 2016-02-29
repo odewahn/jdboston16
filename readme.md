@@ -17,7 +17,7 @@ Ash Wilson builds developer tools, SDKs, and a content management system on the 
 
 <img class="headshot" src="headshots/peter_bull.jpg" width="180px"/>
 
-Peter is a co-founder at DrivenData, whose mission is to bring the power of data science to the social sector. Recently he has worked on projects in smart school budgeting, predicting trends in women’s healthcare, and improving public services by using novel data sources. He earned his master’s in Computational Science and Engineering from Harvard in 2013. Previously he worked as a software engineer at Microsoft and earned a BA in philosophy from Yale University.
+Peter is a co-founder at [DrivenData](http://www.drivendata.org), whose mission is to bring the power of data science to the social sector. Recently he has worked on projects in smart school budgeting, predicting trends in women’s healthcare, and improving public services by using novel data sources. He earned his master’s in Computational Science and Engineering from Harvard in 2014. Previously he worked as a software engineer at Microsoft and earned a BA in philosophy from Yale University.
 
 # Chelsea Douglas
 ## Plotly
@@ -95,13 +95,6 @@ Matthias Bussonnier is a post-doctoral scholar who received his PhD in Biophysic
 <img class="headshot" src="headshots/paco_nathan.jpg" width="180px"/>
 
 Paco Nathan is the Director of the Learning Group at O'Reilly Media.  He has led several data teams in industry, evangelized many popular open source projects (Spark, Mesos, Cascading, and been teaching with Jupyter notebooks for a couple of years, and loving it!  http://liber118.com/pxn/  
-
-# Peter Bull
-## DrivenData
-
-<img class="headshot" src="headshots/peter_bull.jpg" width="180px"/>
-
-Peter is a co-founder at DrivenData, whose mission is to bring the power of data science to the social sector. Recently he has worked on projects in smart school budgeting, predicting trends in women’s healthcare, and improving public services by using novel data sources. He earned his master’s in Computational Science and Engineering from Harvard in 2013. Previously he worked as a software engineer at Microsoft and earned a BA in philosophy from Yale University.
 
 # Rahul Dave
 ## Harvard University
