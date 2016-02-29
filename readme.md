@@ -10,7 +10,7 @@ This is the tentative speaker list for Jupyter Day Boston, which will be held on
 
 <img class="headshot" src="headshots/ash_wilson.jpg" width="180px"/>
 
-Ash Wilson is a software developer at Rackspace. He helps people build awesome things, builds awesome things of his own, and provides support for Rackspace SDKs and APIs.
+Ash Wilson builds developer tools, SDKs, and a content management system on the Developer Experience team at Rackspace. His interests include programming languages, IDEs, chat bots, continuous integration and delivery, configuration management, and Docker.
 
 # Peter Bull
 ## DrivenData
