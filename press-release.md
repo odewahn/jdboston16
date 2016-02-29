@@ -28,4 +28,6 @@ The day will also cover many of the technologies you need to make the most of th
 * Jonas Rosland from [EMC {code}]((http://emccode.github.io/) reprises his popular "Introduction to Docker" tutorial.  (Why Docker, you ask?  It's the basis for a large and growing infrastructure around scaling the notebook services, so it's an essential part of the Jupyter ecosystem.  Plus, it's awesome.)
 * Daina Bouquin from the [Harvard Center for Astrophysics](https://www.cfa.harvard.edu/) provides an introduction to Git and GitHub.  This is *the* essential tool for collaboration in modern Open Source software projects.
 
-In addition to formal talks, there will be time allotted for audience driven "Birds of a Feather" sessions so that attendees can learn from each other about Jupyter is being used in their fields.  
+In addition to formal talks, there will be time allotted for audience driven "Birds of a Feather" sessions so that attendees can learn from each other about Jupyter is being used in their fields.
+
+\#\#\#  
