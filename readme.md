@@ -80,7 +80,7 @@ Kyle Kelley is a programmer, sometimes mathematician, oftentimes ops. He works f
 
 <img class="headshot" src="headshots/laurent_gautier.jpg" width="180px"/>
 
-Laurent Gautier is a Senior Investigator at Novartis Institutes for BioMedical Research.  He is a long-time user of R and original core member of the bioconductor project, the lead of the [Python-R bridge](https://pypi.python.org/pypi/rpy2) (60,000 downloads/month!), and he wrote the first [Julia-R bridge](https://github.com/lgautier/Rif.jl).
+Laurent Gautier is a Senior Investigator at Novartis Institutes for BioMedical Research.  He is a long-time user of R and original core member of the bioconductor project, the lead of the [Python-R bridge](https://pypi.python.org/pypi/rpy2) (up to 60,000 downloads/month!), and he wrote the first [Julia-R bridge](https://github.com/lgautier/Rif.jl).
 
 # Mattias Bussonnier
 ## Jupyter Project / UC Berkeley
