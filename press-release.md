@@ -4,11 +4,11 @@
 
 <img src="speakers.png" width="90%" />
 
-_Cambridge, MA_.  A dynamic group of data scientists, software developers, and educators is converging on March 17 and 18 in Cambridge, MA to present at the third [Jupyter Day](http://blog.jupyter.org/2016/02/16/jupyterdays-boston-2016/). Sponsored by the [Jupyter Project](http://jupyter.org/), the [Harvard-Smithsonian Center for Astrophysics](https://www.cfa.harvard.edu/), the [Harvard Law School Library](http://hls.harvard.edu/library/), and [O'Reilly Media](http://www.oreilly.com/), the event is the place to learn about state of the art data analysis tools from the people who know them best.  Please see the [conference page](https://www.eventbrite.com/e/jupyterdays-boston-2016-tickets-21440120979) for details and registration.
+_Cambridge, MA_.  A dynamic group of data scientists, software developers, and educators is converging on March 17 and 18 in Cambridge, MA to present at the third [Jupyter Day](http://blog.jupyter.org/2016/02/16/jupyterdays-boston-2016/). Sponsored by [Project Jupyter](http://jupyter.org/), the [Harvard-Smithsonian Center for Astrophysics](https://www.cfa.harvard.edu/), the [Harvard Law School Library](http://hls.harvard.edu/library/), and [O'Reilly Media](http://www.oreilly.com/), the event is the place to learn about state of the art data analysis tools from the people who know them best.  Please see the [conference page](https://www.eventbrite.com/e/jupyterdays-boston-2016-tickets-21440120979) for details and registration.
 
 The first day explores Jupyter's many applications, with a particular focus on education, the sciences, and data visualization.  Speakers on the first day include:
 
-* Mattias Bussonnier, one of the core Jupyter developers, discusses where the project has been and where it's headed.
+* Matthias Bussonnier, one of the core Jupyter developers, discusses where the project has been and where it's headed.
 * Chelsea Douglas from [Plotly](https://plot.ly/) discusses the many great new features for creating beautiful data visualizations.
 * Jeremy Freeman, a neuroscientist at the [Howard Hughes Medical Center](https://www.hhmi.org/), shows [binder](http://mybinder.org/), his popular service for launching Jupyter notebooks in the cloud.
 * Elaine Angelino from the [Berkeley Institute Data Science (BIDS)](http://bids.berkeley.edu/) lays out an ambitious new Jupyter-based data science curriculum being rolled out across UC Berkeley.
