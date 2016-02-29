@@ -1,0 +1,44 @@
+{
+  "branch": "master",
+  "files": [
+    "press-release.md"
+  ],
+  "formats": {
+    "pdf": {
+      "version": "web",
+      "color_count": "4",
+      "index": false,
+      "toc": false,
+      "syntaxhighlighting": false,
+      "show_comments": false,
+      "trim_size": "6inx9in"
+    },
+    "epub": {
+      "index": false,
+      "toc": false,
+      "epubcheck": false,
+      "syntaxhighlighting": false,
+      "show_comments": false,
+      "downsample_images": false
+    },
+    "mobi": {
+      "index": false,
+      "toc": false,
+      "syntaxhighlighting": false,
+      "show_comments": false,
+      "downsample_images": false
+    },
+    "html": {
+      "index": false,
+      "toc": false,
+      "syntaxhighlighting": false,
+      "show_comments": false,
+      "consolidated": false
+    }
+  },
+  "theme": "oreillymedia/atlas_tech1c_theme",
+  "title": "jdboston16",
+  "print_isbn13": "",
+  "lang": "en",
+  "templating": false
+}
