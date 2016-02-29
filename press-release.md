@@ -25,7 +25,7 @@ The second day is your chance to get your hands dirty and learn from the experts
 * Laurent Gautier from [Novartis](https://www.novartis.com/) explores how to take advantage of the many, many languages and tools Jupyter supports.  It's not just for Python anymore!
 * Kyle Kelley and Ash Wilson from [Rackspace](https://www.rackspace.com/) demonstrate how to set up JupyterHub, the multiuser platform for Jupyter, on [Carina](https://getcarina.com/), Rackspace's free hosting service for Docker.
 
-We'll also offer session on the technologies you need to make the most of the Jupyter:
+We'll also cover many of the technologies you need to make the most of the Jupyter:
 
 * Jonas Rosland from [EMC {code}]((http://emccode.github.io/) reprises his popular "Introduction to Docker" tutorial.  (Why Docker, you ask?  It's the basis for a large and growing infrastructure around scaling the notebook services, so it's an essential part of the Jupyter ecosystem.  Plus, it's awesome.)
 * Daina Bouquin from the [Harvard Center for Astrophysics](https://www.cfa.harvard.edu/) provides and introduction to Git and GitHub.  This is *the* essential tool for collaboration in modern Open Source software projects.
