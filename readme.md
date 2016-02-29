@@ -48,7 +48,7 @@ Demba Ba is Professor of Electrical Engineering and Bioengineering in the School
 Elaine Angelino is the [Miller Fellow](http://millerinstitute.berkeley.edu/) at the University of California, Berkeley in the [AMPLab](https://amplab.cs.berkeley.edu/). She is one of the technical leads on the ambitious Berkeley Data Science education initiative, which is slated to become a campus-wide curriculum offered (possibly *required*) eventually to all incoming freshmen.
 
 # Eni Mustafaraj
-Wellesley College
+## Wellesley College
 
 <img class="headshot" src="headshots/eni_mustafaraj.jpg" width="180px"/>
 
