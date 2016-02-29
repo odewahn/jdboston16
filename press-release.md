@@ -18,7 +18,7 @@ The first day covers Jupyter's applications, with a particular focus on its uses
 * Mattias Bussonnier, one of the core Jupyter developers, covers where the project has been and where it's headed next
 * Chelsea Douglas from [Plotly](https://plot.ly/) discusses the many great new features for creating beautiful data visualizations
 * Jeremy Freeman, a neuroscientist at the [Howard Hughes Medical Center](https://www.hhmi.org/), shows [binder](http://mybinder.org/), his popular service for launching Jupyter notebooks in the cloud
-* Elaine Angelino from the [Berkeley Institute Data Science ](http://bids.berkeley.edu/) lays out an ambitious new Jupyter-based Data Science curriculum being rolled out across the UC Berkeley
+* Elaine Angelino from the [Berkeley Institute Data Science (BIDS)](http://bids.berkeley.edu/) lays out an ambitious new Jupyter-based data science curriculum being rolled out across UC Berkeley
 
 The second day is your chance to get your hands dirty and learn from the experts how to make the most of Jupyter:
 

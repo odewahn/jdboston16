@@ -59,7 +59,7 @@ Eni Mustafaraj is an Assistant Professor of Computer Science at Wellesley Colleg
 
 <img class="headshot" src="headshots/jeremy_freeman.jpg" width="180px"/>
 
-Jeremy Freeman is a neuroscientist using computation to understand the brain and the creator of the popular [binder](http://mybinder.org/) service for launching Notebooks and other Docker-based environments.  He is the group leader at [Janelia](http://janelia.org) and co-organizer of [CodeNeuro](http://codeneuro.org). His lab is [here](http://thefreemanlab.com).
+Jeremy Freeman is a neuroscientist using computation to understand the brain.  He is the group leader at [Janelia](http://janelia.org), co-organizer of [CodeNeuro](http://codeneuro.org), and the creator of the popular [binder](http://mybinder.org/) service for launching Notebooks and other Docker-based environments.
 
 # Jonas Rosland
 ## EMC
