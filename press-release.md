@@ -34,4 +34,4 @@ But wait, there's more!  ;)
 
 We've carved out plenty of time for audience driven "Birds of a Feather" sessions so that you'll have time to meet people in your field and hear how they're using Jupyter in their practices.  
 
-We look forward to a great two days of talks and conversations, and look forward to seeing you there.
+We look forward to a great two days of talks and conversation, and look forward to seeing you there.
