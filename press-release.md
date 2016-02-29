@@ -7,7 +7,7 @@ Andrew Odewahn, odewahn@oreilly.com
 
 # Speaker Announcements for JupyterDays Boston, March 17-18
 
-_Cambridge, MA_.  The third [Jupyter Day](http://blog.jupyter.org/2016/02/16/jupyterdays-boston-2016/) is coming to Harvard Law School, March 17-18 from 9:30-5:00.  Sponsored by the [Jupyter Project](http://jupyter.org/), the [Harvard-Smithsonian Center for Astrophysics](https://www.cfa.harvard.edu/), and [O'Reilly Media](http://www.oreilly.com/), the event is the place to learn about state of the art data analysis tools from the people who know them best.  Please see the [conference page](https://www.eventbrite.com/e/jupyterdays-boston-2016-tickets-21440120979) for details and registration.
+_Cambridge, MA_.  A dynamic group of data scientists, software developers, and educators is converging on March 17 and 18 in Cambridge, MA to present at the third [Jupyter Day](http://blog.jupyter.org/2016/02/16/jupyterdays-boston-2016/). Sponsored by the [Jupyter Project](http://jupyter.org/), the [Harvard-Smithsonian Center for Astrophysics](https://www.cfa.harvard.edu/), the [Harvard Law School Library](http://hls.harvard.edu/library/), and [O'Reilly Media](http://www.oreilly.com/), the event is the place to learn about state of the art data analysis tools from the people who know them best.  Please see the [conference page](https://www.eventbrite.com/e/jupyterdays-boston-2016-tickets-21440120979) for details and registration.
 
 <img src="speakers.png" width="90%" />
 
