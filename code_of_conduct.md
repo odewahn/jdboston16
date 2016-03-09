@@ -1,4 +1,4 @@
-# JupyterDay Code of Conduct
+# JupyterDay Code of Conduct for Organizers, Speakers, and Volunteers
 
 Project Jupyter is an engaged and respectful community made up of people from all over the world. Your involvement helps us to further our mission and create an open platform that serves a broad range of communities, from research and education to journalism, industry and beyond.
 
