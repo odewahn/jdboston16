@@ -4,6 +4,13 @@ This is the tentative speaker list for Jupyter Day Boston, which will be held on
 
 <img src="speakers.png" width="90%" />
 
+# Allen Downey
+## Olin College
+
+<img class="headshot" src="headshots/allen_downey.jpg"/>
+
+Allen Downey is a Professor at [Olin College](http://www.olin.edu/) and the author of a series of books including _Think Python_, _Think Bayes_, and _Think Stats_, all published by [O’Reilly Media](http://www.oreilly.com/) and available under free licenses from [Green Tea Press](http://greenteapress.com/).
+
 
 # Ash Wilson
 ## Rackspace
@@ -118,3 +125,10 @@ Safia is an energetic software engineer with an interest in data science for soc
 Thorin Tabor is the developer of the [GenePattern Notebook](http://www.broadinstitute.org/cancer/software/genepattern/genepattern-notebooks) environment, which uses Jupyter Notebooks to capture, automate and share workflows used in cancer research, as well as other genomic analyses.
 
 GenePattern Notebook is an extension that allows Jupyter to communicate with the open source [GenePattern](http://www.broadinstitute.org/cancer/software/genepattern/) environment. This environment wraps hundreds of different software tools for analyzing gene expression data, and makes these tools available in a user-friendly interface.
+
+# Brian Keegan
+## Harvard Business School / Institute for Quantitative Social Science
+
+<img class="headshot" src="headshots/brian_keegan.png" width="180px"/>
+
+Brian is a scientist of network, data, and social computing and a research associate at the Harvard Business School’s HBX online learning platform. His research analyzes the structure and dynamics of large-scale online collaboration and communication networks. He received his Ph.D. in Media, Technology, & Society from Northwestern University and S.B. degrees in Mechanical Engineering and Science, Technology, & Society from MIT.
