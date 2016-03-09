@@ -3,7 +3,7 @@ We're looking forward to having you in Boston next week for JupyterDays Boston! 
 
 # Dates
 
-This is a 2 day event on *March 17-18 from 9:00 - 5:30*.  You only need to attend on your day, but you are of course welcome to attend both days.
+This is a 2 day event on *March 17-18 from 9:00 - 5:30*.  You are welcomed and encouraged to attend both days, if possible.
 
 # Location
 
@@ -29,7 +29,6 @@ Please read and review the event's [code of conduct](code_of_conduct.md).  If yo
 
 We will be using the hash tags `#JupyterDays` for the event. Please tweet liberally during the event!
 
-
 # Structure and schedule
 
 The first day consists of 30 minute talks, informal BoFs, and a panel on Jupyter in Education.  (Note that some speakers are are both speaking and on the panel.)  The second day is focused on longer, hands on tutorials and demos.
@@ -49,7 +48,7 @@ The schedule is:
 * 10:30AM to 11:00AM:   Thorin Tabor — GenePattern Notebooks: Jupyter in Cancer Research
 * 11:00AM to 12:00PM:   Birds of a Feather Discussions
 * 12:00PM to 1:00PM:    Lunch (Provided)
-* 1:00PM to 1:30PM:     Demba Ba — Wearable Signal Processing Using Docker Notebook
+* 1:00PM to 1:30PM:     Demba Ba — Wearable Signal Processing Using Jupyter Notebook
 * 1:30PM to 2:00PM:     The Binder Project — Jeremy Freeman
 * 2:00PM to 2:30PM:     Jupyter Kernel Development — Safia Abdalla
 * 2:30PM to 2:45PM:     Break
