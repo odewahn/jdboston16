@@ -1,5 +1,21 @@
-We're looking forward to having you in Boston next week for JupyterDays Boston!  Here are the key details about the event.  Please review them carefully and send any questions or concerns to odewahn@oreilly.com.
+We're looking forward to having you in Boston next week for JupyterDays Boston!  This email, which I've also posted this at https://github.com/odewahn/jdboston16/blob/master/schedule.md, has the key details about the event.  Here's the tl;dr:
 
+Who: You!  And all your awesome co-presenters
+
+What: Your presentation!  See the schedule section for your time, and send a pull request or just send me a link to your posted presentation by Monday, March 14th
+
+When: March 17-18 from 9:00-5:30
+
+Where: Wasserstein Hall at Harvard Law School (https://goo.gl/maps/K1ziSzLsmY32)
+
+How: See the Code of Conduct (https://github.com/odewahn/jdboston16/blob/master/code_of_conduct.md)
+
+Please send any questions to odewahn@oreilly.com and cerdmann@cfa.harvard.edu.  We're looking forward to seeing you next week!
+
+Andrew & Chris
+
+
+Full details below:
 
 # Dates
 
@@ -37,7 +53,7 @@ Since speakers may want to give demonstrations, you are free to use your own com
 
 Please arrive at least 10 minutes before your talk.  An organizer will be on hand to help you get set up to present.
 
-*If you have a link to your presentation and would like to add them to this page, please send me a pull request or send me a link and I wall add it for you.*
+*If you have a link to your presentation and would like to add them to this page, please send me a pull request by Monday the 14, or send me a link and I will add it for you.*
 
 The schedule is:
 
