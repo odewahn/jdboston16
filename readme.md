@@ -1,6 +1,6 @@
 # Program
 
-JupyterDays Boston is a 2 day event on *March 17-18 from 9:00 - 5:30*.
+JupyterDays Boston is a 2 day event on March 17-18.
 
 ## Thursday, March 17
 
@@ -32,6 +32,8 @@ JupyterDays Boston is a 2 day event on *March 17-18 from 9:00 - 5:30*.
 
 # Code of Conduct
 
+Project Jupyter is an engaged and respectful community made up of people from all over the world. Your involvement helps us to further our mission and create an open platform that serves a broad range of communities, from research and education to journalism, industry and beyond.
+
 At Project Jupyter and JupyterDay, we are committed to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. Conference organizers will not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any part of the conference venue, including talks.
 
 For the full code of conduct and how to report an incident, see [code of conduct](code_of_conduct.md).
@@ -45,9 +47,9 @@ Harvard Law School
 
 [Wasserstein Hall](https://goo.gl/maps/K1ziSzLsmY32)
 
-585 Massachusetts Ave
+1585 Massachusetts Ave
 
-Cambridge, MA 0213
+Cambridge, MA 02138
 
 ## Room
 
@@ -56,7 +58,7 @@ Milstein East A & B
 
 ## Social Media
 
-We will be using the hash tags `#JupyterDays` for the event. Please tweet liberally during the event!
+We will be using the hash tag `#JupyterDays` for the event. Please tweet liberally during the event!
 
 
 # Speakers
@@ -78,12 +80,12 @@ Allen Downey is a Professor at [Olin College](http://www.olin.edu/) and the aut
 
 Ash Wilson builds developer tools, SDKs, and a content management system on the Developer Experience team at Rackspace. His interests include programming languages, IDEs, chat bots, continuous integration and delivery, configuration management, and Docker.
 
-# Peter Bull
-## DrivenData
+# Brian Keegan
+## Harvard Business School / Institute for Quantitative Social Science
 
-<img class="headshot" src="headshots/peter_bull.jpg" width="180px"/>
+<img class="headshot" src="headshots/brian_keegan.png" width="180px"/>
 
-Peter is a co-founder at [DrivenData](http://www.drivendata.org), whose mission is to bring the power of data science to the social sector. Recently he has worked on projects in smart school budgeting, predicting trends in women’s healthcare, and improving public services by using novel data sources. He earned his master’s in Computational Science and Engineering from Harvard in 2014. Previously he worked as a software engineer at Microsoft and earned a BA in philosophy from Yale University.
+Brian is a scientist of network, data, and social computing and a research associate at the Harvard Business School’s HBX online learning platform. His research analyzes the structure and dynamics of large-scale online collaboration and communication networks. He received his Ph.D. in Media, Technology, & Society from Northwestern University and S.B. degrees in Mechanical Engineering and Science, Technology, & Society from MIT.
 
 # Chelsea Douglas
 ## Plotly
@@ -162,6 +164,13 @@ Matthias Bussonnier is a post-doctoral scholar who received his PhD in Biophysic
 
 Paco Nathan is the Director of the Learning Group at O'Reilly Media.  He has led several data teams in industry, evangelized many popular open source projects (Spark, Mesos, Cascading, and been teaching with Jupyter notebooks for a couple of years, and loving it!  http://liber118.com/pxn/  
 
+# Peter Bull
+## DrivenData
+
+<img class="headshot" src="headshots/peter_bull.jpg" width="180px"/>
+
+Peter is a co-founder at [DrivenData](http://www.drivendata.org), whose mission is to bring the power of data science to the social sector. Recently he has worked on projects in smart school budgeting, predicting trends in women’s healthcare, and improving public services by using novel data sources. He earned his master’s in Computational Science and Engineering from Harvard in 2014. Previously he worked as a software engineer at Microsoft and earned a BA in philosophy from Yale University.
+
 # Rahul Dave
 ## Harvard University
 
@@ -184,10 +193,3 @@ Safia is an energetic software engineer with an interest in data science for soc
 Thorin Tabor is the developer of the [GenePattern Notebook](http://www.broadinstitute.org/cancer/software/genepattern/genepattern-notebooks) environment, which uses Jupyter Notebooks to capture, automate and share workflows used in cancer research, as well as other genomic analyses.
 
 GenePattern Notebook is an extension that allows Jupyter to communicate with the open source [GenePattern](http://www.broadinstitute.org/cancer/software/genepattern/) environment. This environment wraps hundreds of different software tools for analyzing gene expression data, and makes these tools available in a user-friendly interface.
-
-# Brian Keegan
-## Harvard Business School / Institute for Quantitative Social Science
-
-<img class="headshot" src="headshots/brian_keegan.png" width="180px"/>
-
-Brian is a scientist of network, data, and social computing and a research associate at the Harvard Business School’s HBX online learning platform. His research analyzes the structure and dynamics of large-scale online collaboration and communication networks. He received his Ph.D. in Media, Technology, & Society from Northwestern University and S.B. degrees in Mechanical Engineering and Science, Technology, & Society from MIT.
