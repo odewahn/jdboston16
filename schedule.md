@@ -60,26 +60,27 @@ The schedule is:
 ## Thursday, March 17
 
 * 9:00AM to 9:30AM:     Registration and Breakfast
-* 9:30AM to 10:30AM:    Keynote - Matthias Bussonnier — Project Jupyter Core Developer
-* 10:30AM to 11:00AM:   Thorin Tabor — GenePattern Notebooks: Jupyter in Cancer Research
+* 9:30AM to 9:10AM:     Welcome from the Organizers - Andrew Odewahn (O'Reilly), Chris Erdmann(CfA), Ana Ravalcaba (Jupyter Project)
+* 9:40AM to 10:30AM:    Keynote - Matthias Bussonnier — From Data Gathering to Publishing
+* 10:30AM to 11:00AM:   Thorin Tabor — GenePattern Notebooks: Jupyter for Bioinformatic Research
 * 11:00AM to 12:00PM:   Birds of a Feather Discussions
 * 12:00PM to 1:00PM:    Lunch (Provided)
-* 1:00PM to 1:30PM:     Demba Ba — Wearable Signal Processing Using Jupyter Notebook
-* 1:30PM to 2:00PM:     The Binder Project — Jeremy Freeman
-* 2:00PM to 2:30PM:     Jupyter Kernel Development — Safia Abdalla
+* 1:00PM to 1:30PM:     Faras Sadek, Yasha Iravantchi, Diana Zhang and Demba Ba — Wearable Signal Processing Using Docker Notebook Containers on AWS
+* 1:30PM to 2:00PM:     binder — Jeremy Freeman
+* 2:00PM to 2:30PM:     Kooking with Kernels — Safia Abdalla
 * 2:30PM to 2:45PM:     Break
-* 2:45PM to 3:15PM:     The Future of Jupyter-based Curriculum — Elaine Angelino
-* 3:25PM to 3:45PM:     Data Visualization in Jupyter — Chelsea Douglas
+* 2:45PM to 3:15PM:      Jupyter in UC Berkeley's Data Science Education Program — Elaine Angelino and Sam Lau
+* 3:15PM to 3:45PM:     Data Visualization with Plotly in Jupyter — Chelsea Douglas
 * 3:45PM to 4:00PM:     Break
-* 4:00PM to 5:30PM:     Jupyter in Education Panel — Paco Nathan, Rahul Dave, Elaine                                                          Angelino, Demba Ba, Eni Mustafaraj, Allen Downey
+* 4:00PM to 5:30PM:     Jupyter in Education Panel — Paco Nathan, Rahul Dave, Elaine Angelino, Demba Ba, Eni Mustafaraj, Allen Downey
 
 ## Friday, March 18
 
 * 9:00AM to 9:30AM:    Registration and Breakfast
 * 9:30AM to 10:45	     Jonas Rosland -- Introduction to Docker
 * 10:45AM to 12:30PM	 Kyle Kelley and Ash Wilson -- Running JupyterHub on Docker
-* 12:30PM to 1:30PM	   Lunch (on your own)
+* 12:30PM to 1:30PM	   Lunch (provided)
 * 1:30PM	to 2:30PM	   Laurent Gautier -  Polyglot Data Analysis (Visually Demonstrated) With Python And R.
-* 2:30PM to	3:30PM	   Brian Keegan -- Social network analysis, API scraping, and Wikipedia
+* 2:30PM to	3:30PM	   Brian Keegan -- Data Mining and Network Analysis from Wikipedia Data
 * 3:30PM to 4:30PM	   Peter Bull -- Data Science is Software
 * 4:30PM to 5:00PM	   Closing Remarks
