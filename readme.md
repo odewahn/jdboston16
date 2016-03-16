@@ -1,6 +1,65 @@
-This is the tentative speaker list for Jupyter Day Boston, which will be held on March 17-18 at the Harvard Law School.  You can make any changes you like and send a pull request, or just email any corrections to odewahn@oreilly.com and I'll put them in.  If you want to change your picture, please make sure it is a square format.
+# Program
 
-<b>IMPORTANT</b>: If you have not done so already, please register as a conference speaker at [the eventbrite page](https://www.eventbrite.com/e/jupyterdays-boston-2016-tickets-21440120979).
+JupyterDays Boston is a 2 day event on *March 17-18 from 9:00 - 5:30*.
+
+## Thursday, March 17
+
+* 9:00AM to 9:30AM:     Registration and Breakfast
+* 9:30AM to 9:10AM:     Welcome from the Organizers - Andrew Odewahn (O'Reilly), Chris Erdmann(CfA), Ana Ravalcaba (Jupyter Project)
+* 9:40AM to 10:30AM:    Keynote - Matthias Bussonnier — From Data Gathering to Publishing
+* 10:30AM to 11:00AM:   Thorin Tabor — GenePattern Notebooks: Jupyter for Bioinformatic Research
+* 11:00AM to 12:00PM:   Birds of a Feather Discussions
+* 12:00PM to 1:00PM:    Lunch (Provided)
+* 1:00PM to 1:30PM:     Faras Sadek, Yasha Iravantchi, Diana Zhang and Demba Ba — Wearable Signal Processing Using Docker Notebook Containers on AWS
+* 1:30PM to 2:00PM:     binder — Jeremy Freeman
+* 2:00PM to 2:30PM:     Kooking with Kernels — Safia Abdalla
+* 2:30PM to 2:45PM:     Break
+* 2:45PM to 3:15PM:      Jupyter in UC Berkeley's Data Science Education Program — Elaine Angelino and Sam Lau
+* 3:15PM to 3:45PM:     Data Visualization with Plotly in Jupyter — Chelsea Douglas
+* 3:45PM to 4:00PM:     Break
+* 4:00PM to 5:30PM:     Jupyter in Education Panel — Paco Nathan, Rahul Dave, Elaine Angelino, Demba Ba, Eni Mustafaraj, Allen Downey
+
+## Friday, March 18
+
+* 9:00AM to 9:30AM:    Registration and Breakfast
+* 9:30AM to 10:45	     Jonas Rosland -- Introduction to Docker
+* 10:45AM to 12:30PM	 Kyle Kelley and Ash Wilson -- Running JupyterHub on Docker
+* 12:30PM to 1:30PM	   Lunch (provided)
+* 1:30PM	to 2:30PM	   Laurent Gautier -  Polyglot Data Analysis (Visually Demonstrated) With Python And R.
+* 2:30PM to	3:30PM	   Brian Keegan -- Data Mining and Network Analysis from Wikipedia Data
+* 3:30PM to 4:30PM	   Peter Bull -- Data Science is Software
+* 4:30PM to 5:00PM	   Closing Remarks
+
+# Code of Conduct
+
+At Project Jupyter and JupyterDay, we are committed to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. Conference organizers will not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any part of the conference venue, including talks.
+
+For the full code of conduct and how to report an incident, see [code of conduct](code_of_conduct.md).
+
+
+# Key Information
+
+The event is being held at:
+
+Harvard Law School
+
+[Wasserstein Hall](https://goo.gl/maps/K1ziSzLsmY32)
+
+585 Massachusetts Ave
+
+Cambridge, MA 0213
+
+## Room
+
+Milstein East A & B
+
+
+## Social Media
+
+We will be using the hash tags `#JupyterDays` for the event. Please tweet liberally during the event!
+
+
+# Speakers
 
 <img src="speakers.png" width="90%" />
 

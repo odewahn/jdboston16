@@ -66,11 +66,11 @@ The schedule is:
 * 11:00AM to 12:00PM:   Birds of a Feather Discussions
 * 12:00PM to 1:00PM:    Lunch (Provided)
 * 1:00PM to 1:30PM:     Faras Sadek, Yasha Iravantchi, Diana Zhang and Demba Ba — Wearable Signal Processing Using Docker Notebook Containers on AWS
-* 1:30PM to 2:00PM:     binder — Jeremy Freeman
-* 2:00PM to 2:30PM:     Kooking with Kernels — Safia Abdalla
+* 1:30PM to 2:00PM:     Jeremy Freeman - binder
+* 2:00PM to 2:30PM:     Safia Abdalla - Kooking with Kernels
 * 2:30PM to 2:45PM:     Break
-* 2:45PM to 3:15PM:      Jupyter in UC Berkeley's Data Science Education Program — Elaine Angelino and Sam Lau
-* 3:15PM to 3:45PM:     Data Visualization with Plotly in Jupyter — Chelsea Douglas
+* 2:45PM to 3:15PM:     Elaine Angelino and Sam Lau -- Jupyter in UC Berkeley's Data Science Education Program
+* 3:15PM to 3:45PM:     Chelsea Douglas - Data Visualization with Plotly in Jupyter
 * 3:45PM to 4:00PM:     Break
 * 4:00PM to 5:30PM:     Jupyter in Education Panel — Paco Nathan, Rahul Dave, Elaine Angelino, Demba Ba, Eni Mustafaraj, Allen Downey
 
@@ -80,7 +80,7 @@ The schedule is:
 * 9:30AM to 10:45	     Jonas Rosland -- Introduction to Docker
 * 10:45AM to 12:30PM	 Kyle Kelley and Ash Wilson -- Running JupyterHub on Docker
 * 12:30PM to 1:30PM	   Lunch (provided)
-* 1:30PM	to 2:30PM	   Laurent Gautier -  Polyglot Data Analysis (Visually Demonstrated) With Python And R.
-* 2:30PM to	3:30PM	   Brian Keegan -- Data Mining and Network Analysis from Wikipedia Data
-* 3:30PM to 4:30PM	   Peter Bull -- Data Science is Software
+* 1:30PM	to 2:30PM	   Laurent Gautier - Polyglot Data Analysis (Visually Demonstrated) With Python And R.
+* 2:30PM to	3:30PM	   Brian Keegan - Data Mining and Network Analysis from Wikipedia Data
+* 3:30PM to 4:30PM	   Peter Bull - Data Science is Software
 * 4:30PM to 5:00PM	   Closing Remarks
