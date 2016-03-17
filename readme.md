@@ -10,7 +10,7 @@ JupyterDays Boston is a 2 day event on March 17-18.
 * 10:30AM to 11:00AM:   Thorin Tabor — [GenePattern Notebooks: Jupyter for Bioinformatic Research](presentations/genepattern-tabor.pdf)
 * 11:00AM to 12:00PM:   [Birds of a Feather Discussions](https://jupyter.hackpad.com/JupyterDays-Boston)
 * 12:00PM to 1:00PM:    Lunch
-* 1:00PM to 1:30PM:     Faras Sadek, Yasha Iravantchi, Diana Zhang and Demba Ba — Wearable Signal Processing Using Docker Notebook Containers on AWS
+* 1:00PM to 1:30PM:     Faras Sadek, Yasha Iravantchi, Diana Zhang and Demba Ba — [Wearable Signal Processing Using Docker Notebook Containers on AWS](https://goo.gl/c7JvhZ)
 * 1:30PM to 2:00PM:     Jeremy Freeman - [Binder](http://freeman-lab.github.io/talk-jupyter-march-2016/)
 * 2:00PM to 2:30PM:     Safia Abdalla - [Kooking with Kernels](https://docs.google.com/presentation/d/1ukBEbdWJbddwXS5lgOgHwrJq_cmG3JYjKZDxnCh-JJE/pub?start=false&loop=false&delayms=60000&slide=id.g11c27a08dc_0_0)
 * 2:30PM to 2:45PM:     Break
