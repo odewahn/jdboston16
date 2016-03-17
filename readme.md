@@ -14,7 +14,7 @@ JupyterDays Boston is a 2 day event on March 17-18.
 * 1:30PM to 2:00PM:     Jeremy Freeman - Binder
 * 2:00PM to 2:30PM:     Safia Abdalla - Kooking with Kernels
 * 2:30PM to 2:45PM:     Break
-* 2:45PM to 3:15PM:     Elaine Angelino and Sam Lau - Jupyter in UC Berkeley's Data Science Education Program
+* 2:45PM to 3:15PM:     Elaine Angelino and Sam Lau - [Jupyter in UC Berkeley's Data Science Education Program](presentations/berkeley-data-science.pdf)
 * 3:15PM to 3:45PM:     Chelsea Douglas - Data Visualization with Plotly in Jupyter
 * 3:45PM to 4:00PM:     Break
 * 4:00PM to 5:30PM:     Jupyter in Education Panel — Paco Nathan, Rahul Dave, Elaine Angelino, Demba Ba, Eni Mustafaraj, Allen Downey
