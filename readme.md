@@ -12,7 +12,7 @@ JupyterDays Boston is a 2 day event on March 17-18.
 * 12:00PM to 1:00PM:    Lunch
 * 1:00PM to 1:30PM:     Faras Sadek, Yasha Iravantchi, Diana Zhang and Demba Ba — Wearable Signal Processing Using Docker Notebook Containers on AWS
 * 1:30PM to 2:00PM:     Jeremy Freeman - [Binder](http://freeman-lab.github.io/talk-jupyter-march-2016/)
-* 2:00PM to 2:30PM:     Safia Abdalla - Kooking with Kernels
+* 2:00PM to 2:30PM:     Safia Abdalla - [Kooking with Kernels](https://docs.google.com/presentation/d/1ukBEbdWJbddwXS5lgOgHwrJq_cmG3JYjKZDxnCh-JJE/pub?start=false&loop=false&delayms=60000&slide=id.g11c27a08dc_0_0)
 * 2:30PM to 2:45PM:     Break
 * 2:45PM to 3:15PM:     Elaine Angelino and Sam Lau - [Jupyter in UC Berkeley's Data Science Education Program](presentations/berkeley-data-science.pdf)
 * 3:15PM to 3:45PM:     Chelsea Douglas - [Data Visualization with Plotly in Jupyter](https://nbviewer.jupyter.org/gist/cldougl/493c7872bce68c695098)
