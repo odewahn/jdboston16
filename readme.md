@@ -4,6 +4,10 @@ JupyterDays Boston is a 2 day event on March 17-18.
 
 ## Thursday, March 17
 
+Here's a great summary of the first day by @DainaBouquin: 
+
+http://altbibl.io/gazette/jupyterdays-day-1/
+
 * 9:00AM to 9:30AM:     Registration and Breakfast
 * 9:30AM to 9:40AM:     Welcome from the Organizers - Andrew Odewahn (O'Reilly Media), Chris Erdmann (Harvard-Smithsonian Center for Astrophysics), Ana Ruvalcaba (Project Jupyter)
 * 9:40AM to 10:30AM:    Keynote - Matthias Bussonnier — [From Data Gathering to Publishing](presentations/JupyterDaysKeynote-Matthias-Bussonnier.pdf)
