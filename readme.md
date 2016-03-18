@@ -6,7 +6,7 @@ JupyterDays Boston is a 2 day event on March 17-18.
 
 * 9:00AM to 9:30AM:     Registration and Breakfast
 * 9:30AM to 9:40AM:     Welcome from the Organizers - Andrew Odewahn (O'Reilly Media), Chris Erdmann (Harvard-Smithsonian Center for Astrophysics), Ana Ruvalcaba (Project Jupyter)
-* 9:40AM to 10:30AM:    Keynote - Matthias Bussonnier — From Data Gathering to Publishing
+* 9:40AM to 10:30AM:    Keynote - Matthias Bussonnier — [From Data Gathering to Publishing](JupyterDaysKeynote-Matthias-Bussonnier.pdf)
 * 10:30AM to 11:00AM:   Thorin Tabor — [GenePattern Notebooks: Jupyter for Bioinformatic Research](presentations/genepattern-tabor.pdf)
 * 11:00AM to 12:00PM:   [Birds of a Feather Discussions](https://jupyter.hackpad.com/JupyterDays-Boston)
 * 12:00PM to 1:00PM:    Lunch
@@ -22,10 +22,10 @@ JupyterDays Boston is a 2 day event on March 17-18.
 ## Friday, March 18
 
 * 9:00AM to 9:30AM:    Registration and Breakfast
-* 9:30AM to 10:45	     Jonas Rosland -- Introduction to Docker
+* 9:30AM to 10:45	     Jonas Rosland -- [Introduction to Docker](container.training)
 * 10:45AM to 12:30PM	 Kyle Kelley and Ash Wilson -- Running JupyterHub on Docker
 * 12:30PM to 1:30PM	   Lunch
-* 1:30PM	to 2:30PM	   Laurent Gautier -  Polyglot Data Analysis (Visually Demonstrated) With Python and R
+* 1:30PM	to 2:30PM	   Laurent Gautier -  [Polyglot Data Analysis (Visually Demonstrated) With Python and R]( http://lgautier.github.io/jpd-pdapr-slides/)
 * 2:30PM to	3:30PM	   Brian Keegan -- Data Mining and Network Analysis from Wikipedia Data
 * 3:30PM to 4:30PM	   Peter Bull -- Data Science is Software
 * 4:30PM to 5:00PM	   Closing Remarks
