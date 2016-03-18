@@ -23,7 +23,7 @@ JupyterDays Boston is a 2 day event on March 17-18.
 
 * 9:00AM to 9:30AM:    Registration and Breakfast
 * 9:30AM to 10:45	     Jonas Rosland -- [Introduction to Docker](container.training)
-* 10:45AM to 12:30PM	 Kyle Kelley and Ash Wilson -- Running JupyterHub on Docker
+* 10:45AM to 12:30PM	 Kyle Kelley and Ash Wilson -- [Running JupyterHub on Docker](https://jupyterhub.surge.sh)
 * 12:30PM to 1:30PM	   Lunch
 * 1:30PM	to 2:30PM	   Laurent Gautier -  [Polyglot Data Analysis (Visually Demonstrated) With Python and R]( http://lgautier.github.io/jpd-pdapr-slides/)
 * 2:30PM to	3:30PM	   Brian Keegan -- Data Mining and Network Analysis from Wikipedia Data
