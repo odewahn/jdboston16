@@ -1,10 +1,12 @@
 # Program
 
-JupyterDays Boston is a 2 day event on March 17-18.
+JupyterDays Boston is a 2 day event on March 17-18. Sponsored by
+
+<img src="sponsors.png" width="90%" />
 
 ## Thursday, March 17
 
-Here's a great summary of the first day by @DainaBouquin: 
+Here's a great summary of the first day by @DainaBouquin:
 
 http://altbibl.io/gazette/jupyterdays-day-1/
 
