@@ -33,7 +33,7 @@ http://altbibl.io/gazette/jupyterdays-day-1/
 * 12:30PM to 1:30PM	   Lunch
 * 1:30PM	to 2:30PM	   Laurent Gautier -  [Polyglot Data Analysis (Visually Demonstrated) With Python and R]( http://lgautier.github.io/jpd-pdapr-slides/)
 * 2:30PM to	3:30PM	   Brian Keegan -- [Data Mining and Network Analysis from Wikipedia Data](https://github.com/brianckeegan/Wikipedia-Network-Analysis/blob/master/Wikipedia%20Network%20Analysis.ipynb)
-* 3:30PM to 4:30PM	   Peter Bull -- [Data Science is Software](ae7af17322c44f00b70ccab9cc3ea9e2)
+* 3:30PM to 4:30PM	   Peter Bull -- [Data Science is Software](https://github.com/pjbull/data-science-is-software/blob/master/notebooks/data-science-is-software-talk.ipynb)
 * 4:30PM to 5:00PM	   Closing Remarks
 
 # Code of Conduct
