@@ -14,7 +14,7 @@ http://altbibl.io/gazette/jupyterdays-day-1/
 * 9:30AM to 9:40AM:     Welcome from the Organizers - Andrew Odewahn (O'Reilly Media), Chris Erdmann (Harvard-Smithsonian Center for Astrophysics), Ana Ruvalcaba (Project Jupyter)
 * 9:40AM to 10:30AM:    Keynote - Matthias Bussonnier — [From Data Gathering to Publishing](presentations/JupyterDaysKeynote-Matthias-Bussonnier.pdf)
 * 10:30AM to 11:00AM:   Thorin Tabor — [GenePattern Notebooks: Jupyter for Bioinformatic Research](presentations/genepattern-tabor.pdf)
-* 11:00AM to 12:00PM:   [Birds of a Feather Discussions](https://jupyter.hackpad.com/JupyterDays-Boston)
+* 11:00AM to 12:00PM:   [Birds of a Feather Discussions](https://jupyter.hackpad.com/JupyterDays-Boston-lPYwiF8Yxxp)
 * 12:00PM to 1:00PM:    Lunch
 * 1:00PM to 1:30PM:     Faras Sadek, Yasha Iravantchi, Diana Zhang and Demba Ba — [Wearable Signal Processing Using Docker Notebook Containers on AWS](https://goo.gl/c7JvhZ)
 * 1:30PM to 2:00PM:     Jeremy Freeman - [Binder](http://freeman-lab.github.io/talk-jupyter-march-2016/)
